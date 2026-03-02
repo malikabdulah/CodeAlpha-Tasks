@@ -21,10 +21,3 @@ A secure user authentication system built entirely in the terminal.
 * **Features:** * Users can register a new account by creating a username and password.
   * Existing users can log in by verifying their credentials.
 * **Highlight:** Implements secure C++ file handling (`fstream`) to store, read, and verify user credentials locally. Data persists even after the program terminates.
-
-## ⚙️ How to Run
-To compile and run these programs on your local machine:
-
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
